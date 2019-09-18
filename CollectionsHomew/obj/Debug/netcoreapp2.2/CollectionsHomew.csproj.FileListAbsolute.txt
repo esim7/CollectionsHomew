@@ -1,0 +1,11 @@
+C:\Users\home\source\repos\CollectionsHomew\CollectionsHomew\bin\Debug\netcoreapp2.2\CollectionsHomew.deps.json
+C:\Users\home\source\repos\CollectionsHomew\CollectionsHomew\bin\Debug\netcoreapp2.2\CollectionsHomew.runtimeconfig.json
+C:\Users\home\source\repos\CollectionsHomew\CollectionsHomew\bin\Debug\netcoreapp2.2\CollectionsHomew.runtimeconfig.dev.json
+C:\Users\home\source\repos\CollectionsHomew\CollectionsHomew\bin\Debug\netcoreapp2.2\CollectionsHomew.dll
+C:\Users\home\source\repos\CollectionsHomew\CollectionsHomew\bin\Debug\netcoreapp2.2\CollectionsHomew.pdb
+C:\Users\home\source\repos\CollectionsHomew\CollectionsHomew\obj\Debug\netcoreapp2.2\CollectionsHomew.csprojAssemblyReference.cache
+C:\Users\home\source\repos\CollectionsHomew\CollectionsHomew\obj\Debug\netcoreapp2.2\CollectionsHomew.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\CollectionsHomew\CollectionsHomew\obj\Debug\netcoreapp2.2\CollectionsHomew.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\CollectionsHomew\CollectionsHomew\obj\Debug\netcoreapp2.2\CollectionsHomew.AssemblyInfo.cs
+C:\Users\home\source\repos\CollectionsHomew\CollectionsHomew\obj\Debug\netcoreapp2.2\CollectionsHomew.dll
+C:\Users\home\source\repos\CollectionsHomew\CollectionsHomew\obj\Debug\netcoreapp2.2\CollectionsHomew.pdb
